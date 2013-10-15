@@ -1,0 +1,33 @@
+body{
+	background-color: #f6f6f6;
+	background-image: url(02.jpg);
+}
+
+h1, h2, h3, h4, h5, h6, p {font-family: Calibri, Arial, Sans-serif;}
+
+h1{
+	text-align: center;
+	font-size: 60px;
+	color: #fff;
+}
+
+table{
+	background-color: white;
+	filter:alpha(opacity=60); 
+	opacity:.6;
+	border-collapse:collapse;
+	border: 0px solid white; 
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+
+}
+
+ td {
+	padding: 15px;
+	text-align: center;
+}
+
+tfoot th p{
+	font-style: italic;
+}
